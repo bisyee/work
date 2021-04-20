@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# HJ: 5/28/20
+
 
 import rospy
 from sensor_msgs.msg import Imu
